@@ -1,8 +1,8 @@
 cask "lasay" do
-  version "1.2.2"
-  sha256 "be45e15bfb49cc52c090f61eb585a31269c942e3daafa83bc61079c9a5628698"
+  version "1.2.3"
+  sha256 "db186b45ecbf3b602b9cc13d30c0a4df6abdd62406cd7ee819e56bd93965bf12"
 
-  url "https://github.com/tamio0800/LaSay/releases/download/v#{version}/LaSay-v#{version}%2B7.dmg"
+  url "https://github.com/tamio0800/LaSay/releases/download/v#{version}/LaSay-v#{version}%2B8.dmg"
   name "LaSay"
   desc "Privacy-first macOS voice-to-text app"
   homepage "https://github.com/tamio0800/LaSay"
